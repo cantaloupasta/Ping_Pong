@@ -1,0 +1,5 @@
+const Discord = require('discord.js');
+const client = new Discord.Client();
+const token = "ODgyMzQ3Mzc4NDkxOTQwOTU0.YS6ECA.rt9HoTjf-okPQaKm5kJr2fgskSw"
+const prefix = "=wakie"
+client.login(token);
